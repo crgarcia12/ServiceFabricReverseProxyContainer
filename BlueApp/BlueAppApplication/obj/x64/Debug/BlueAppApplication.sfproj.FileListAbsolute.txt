@@ -1,0 +1,1 @@
+C:\gitrepos\github\crgarcia12\SFReverseProxyDemo\BlueApp\BlueAppApplication\obj\x64\Debug\BlueAppApplication.sfproj.CoreCompileInputs.cache

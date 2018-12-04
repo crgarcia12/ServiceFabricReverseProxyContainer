@@ -1,0 +1,1 @@
+C:\gitrepos\github\crgarcia12\SFReverseProxyDemo\GreenApp\GreenAppApplication\obj\x64\Debug\GreenAppApplication.sfproj.CoreCompileInputs.cache

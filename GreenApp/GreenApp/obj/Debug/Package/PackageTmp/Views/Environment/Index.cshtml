@@ -1,0 +1,27 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        body {
+            background-color: GreenYellow;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><h1>Variable Name</h1></td>
+            <td><h1>Variable Value</h1></td>
+        </tr>
+        @foreach (var variable in ViewBag.Variables)
+        {
+            <tr>
+                <td>@variable.Key</td>
+                <td>@variable.Value</td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
